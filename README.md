@@ -51,7 +51,7 @@ You will be prompted to enter the password for ansible-vault.
 This will allow Ansible to decrypt the 'globus_clientSecret' during installation.
 
 After this role has successfully completed, please action the last message. You
-will need to login to the target machine and run 'globus-connect-server login
+will need to login to the target machine as root and run 'globus-connect-server login
 localhost'.
 
 Once globus-connect-server has been logged in to the localhost, please run the
