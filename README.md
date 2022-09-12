@@ -13,6 +13,12 @@ https://docs.globus.org/globus-connect-server/v5.4/#globus_connect_version_5_ter
 The roles were developed using these instructions: https://docs.globus.org/globus-connect-server/v5.4/
 For information on using Ansible: https://docs.ansible.com/ansible/latest/index.html
 
+```
+Note: Since the development of these Ansible scripts, changes made to the deployment of the 
+Globus Connect Server v5.4 make then unusable. Please refer to the ansible scripts as a 
+good reference and summmary on the installation process.
+```
+
 Requirements
 ------------
 
